@@ -1,1 +1,2 @@
-.kitchen/logs
+.kitchen/
+test/integration/default/serverspec/.kitchen/logs/kitchen.log

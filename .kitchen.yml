@@ -11,5 +11,7 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[tmux]
+      - tmux
     attributes: {}
+busser:
+  sudo: true
